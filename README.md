@@ -13,7 +13,7 @@
 
 </div>
 <p align="center">
-Project created by <a href="https://github.com/aju001">aju</a> to make it public
+Project created by <a href="https://github.com/PSYCHO-1">Psycho</a> to make it public
     <br>
        | © |
         Reserved |
@@ -130,16 +130,7 @@ Due to Userbot;  Your WhatsApp account may be banned.
 This is an open source project,you are responsible for everything you do. 
 Absolutely, Asena executives do not accept responsibility.
 By establishing the Asena, you are deemed to have accepted these responsibilities.
-```
-  
-## Developers
-  <div align="center">
-    
-  [![aju](https://github.com/aju001.png?size=100)](https://github.com/aju001)
 
-[aju](https://github.com/aju001)  
-Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules
-  </div>
 
 
 ## License
