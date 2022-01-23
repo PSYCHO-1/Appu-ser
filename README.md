@@ -23,13 +23,13 @@ Project created by <a href="https://github.com/aju001">aju</a> to make it public
 ----
 
   <p align="center">
-  <a href="https://github.com/aju001/Ajuser_v2 ">
-    <img src="https://img.shields.io/github/repo-size/aju001/Ajuser_v2?color=red&label=Repo%20total%20size&style=flat-square">
+  <a href="https://github.com/PYSCHO-1/Appu-ser ">
+    <img src="https://img.shields.io/github/repo-size/PSYCHO-1/Appu-ser?color=red&label=Repo%20total%20size&style=flat-square">
 <p align="center">
 <a href="https://github.com/aju001/followers"><img title="Followers" src="https://img.shields.io/github/followers/aju001?color=grey&style=plastic"></a>
-<a href="https://github.com/aju001/Ajuser_v2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/aju001/Ajuser?color=grey&style=plastic"></a>
-<a href="https://github.com/aju001/Ajuser_v2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/aju001/Ajuser_v2?color=grey&style=plastic"></a>
-<a href="https://github.com/aju001/Ajuser_v2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/aju001/Ajuser_v2?label=Watchers&color=grey&style=flat-circle"></a>
+<a href="https://github.com/PSYCHO-1/Appu-ser/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/aju001/Appu-ser?color=grey&style=plastic"></a>
+<a href="https://github.com/PSYCHO-1/Appu-ser/network/members"><img title="Forks" src="https://img.shields.io/github/forks/PSYCHO-1/Appu-ser?color=grey&style=plastic"></a>
+<a href="https://github.com/PSYCHO-1/Appu-ser/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/PSYCHO-1/Appu-ser?label=Watchers&color=grey&style=flat-circle"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-red.svg"</a>
 <h3 align="center">Contact Me:</h3>
 
@@ -54,13 +54,13 @@ Project created by <a href="https://github.com/aju001">aju</a> to make it public
     
 ```
     
-Ajuser Userbot is Open Source software open to development. 
+Appu-ser Userbot is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
 Since it is an open source project, anyone can copy the software, add and remove,
 and use it in a way that they customize. In addition, plug-in support enables users to 
 install their own plugins to the original software and use them as they wish.
 Using the bot out of purpose will explicitly ban you.
-Usage is entirely the user's responsibility, Ajuser Userbot is an 
+Usage is entirely the user's responsibility, Appu-ser Userbot is an 
 infrastructure only. Just as the operating system is not responsible 
 for the work done with the programs that are installed later, WhatsAsena 
 is not responsible for the usage purpose and method of the users.
@@ -75,9 +75,9 @@ the user is responsible..
 
   ### <u> Simple Method <u>
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@aju0011/Ajuser-Qr)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@aju0011/Appu-ser-Qr)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aju001/Ajuser)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aju001/Appu-ser)
      </div>
      [![Run on Repl.it](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://bit.ly/2XqQKMU)
  
@@ -95,8 +95,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/aju001/Ajuser
-$ cd Ajuser
+$ git clone https://github.com/aju001/Appu-ser
+$ cd Appu-ser
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -105,8 +105,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/aju001/Ajuser
-$ cd Ajuser
+$ git clone https://github.com/aju001/Appu-ser
+$ cd Appu-ser
 $ chmod +x *
 $ npm i
 $ node qr.js
