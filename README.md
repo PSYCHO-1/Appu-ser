@@ -1,21 +1,15 @@
-<a href="https://github.com/aju001"><img src="https://fontmeme.com/permalink/211121/32108414fe61d225739702fe3b4c0784.png" alt="google-font" border="0"></a>
-<div align="center">
-
-
+#   __    WELCOME TO APPU SER
 
 
 <div align="center">
-  <a href="https://ibb.co/4wyvT9j"><img src="https://i.ibb.co/Y2mXdR5/ajuser.jpg""width="300" height="300"/>
+  <a href="https://ibb.co/4wyvT9j"><img src="https://i.imgur.com/AbRP8ZG.jpeg""width="300" height="300"/>
     <p align="center">
-    
-    
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=000EF7&lines=Welcome+to+Ajuser+WA+Bot...;Created+by+Aju....;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
   
-<a href="#"><img title="Ajuser_v2" src="https://img.shields.io/badge/-Ajuser-blue?&style=for-the-badge"></a>
+<a href="#"><img title="Appu-ser" src="https://img.shields.io/badge/-Appuser-blue?&style=for-the-badge"></a>
 </p>
   </p>
 <p align="center">
-<a href="https://github.com/aju001"><img title="aju" src="https://img.shields.io/badge/author-aju001?color=black&style=for-the-badge&logo=github"></a>
+<a href="https://github.com/PSYCHO-1"><img title="PSYCHO" src="https://img.shields.io/badge/author-PSYCHO-1?color=black&style=for-the-badge&logo=github"></a>
 
 </div>
 <p align="center">
